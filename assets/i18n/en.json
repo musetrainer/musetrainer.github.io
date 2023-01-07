@@ -1,0 +1,21 @@
+{
+  "speed": "Speed",
+  "repeat": "Repeat",
+  "range": "Range",
+  "start": "START",
+  "play": "PLAY",
+  "stop": "STOP",
+  "midi": "MIDI",
+  "errorMidi": "No MIDI devices found",
+  "errorFile": "Error loading file",
+  "loadingFile": "Preparing your masterpiece...",
+  "listenOnMidi": "Listen on MIDI",
+  "playUpperStaff": "Play upper staff",
+  "playLowerStaff": "Play lower staff",
+  "showKeyboard": "Show keyboard",
+  "settings": "Settings",
+  "rename": "Rename",
+  "delete": "Delete",
+  "folder": "Folder",
+  "keyboard": "Keyboard"
+}
