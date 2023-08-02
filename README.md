@@ -11,6 +11,6 @@ https://musetrainer.com/#/play?file={url}
 
 For example:
 
-https://musetrainer.com/#/play?file=https:%2F%2Fapp.musetrainer.com%2Fassets%2Fscores%2FFur_Elise.mxl
+https://musetrainer.com/#/play?file=https:%2F%2Fmusetrainer.com%2Fassets%2Fscores%2FFur_Elise.mxl
 
 Enjoy!
